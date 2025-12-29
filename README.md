@@ -1,8 +1,5 @@
 # Selenium Cucumber BDD Framework
 
-## Author
-**hummam**
-
 ## Overview
 This is a Selenium + Cucumber BDD automation testing framework designed for web application testing using Java and Maven.
 
